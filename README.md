@@ -3,3 +3,6 @@ This project presents a wearable electromagnetic field detection device designed
 
 More Information about the Jacket
 https://docs.google.com/document/d/1BgF4vSRk0HWuEJ7yvpPIocWDXCAuRnXmqdV8efBrqPY/edit?usp=sharing
+
+Demo
+https://drive.google.com/file/d/1tHpVsoZgsb5EiPkecw1e1wgBZl35kMn3/view?usp=sharing 
